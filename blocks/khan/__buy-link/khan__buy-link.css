@@ -7,11 +7,11 @@
     transition: opacity 0.4s ease;
 }
 
-  .khan__buy-link::after {
+.khan__buy-link::after {
     content: '\2192';
     color: #2f80ed;
 }
 
-  .khan__buy-link:hover {
+.khan__buy-link:hover {
     opacity: 0.6;
 }

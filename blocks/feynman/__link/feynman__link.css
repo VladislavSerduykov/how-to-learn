@@ -10,11 +10,11 @@
     transition: opacity 0.4s ease;
 }
 
-  .feynman__link::after {
+.feynman__link::after {
     content: '\2192';
     color: #2f80ed;
 }
 
-  .feynman__link:hover {
+.feynman__link:hover {
     opacity: 0.6;
 }

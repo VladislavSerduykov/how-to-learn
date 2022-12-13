@@ -5,6 +5,6 @@
     transition: opacity 0.4s ease;
 }
 
-  .footer__column-link:hover {
+.footer__column-link:hover {
     opacity: 0.6;
 }
